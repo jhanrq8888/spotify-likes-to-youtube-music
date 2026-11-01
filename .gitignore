@@ -1,0 +1,4 @@
+# Your exported data must never be committed
+*.csv
+not_found.txt
+no_encontradas.txt
